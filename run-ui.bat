@@ -1,0 +1,1 @@
+uv run src/mcp_feedback_collector/server.py --debug-ui
