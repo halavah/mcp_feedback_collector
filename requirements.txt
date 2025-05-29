@@ -1,0 +1,3 @@
+mcp
+pillow>=9.0.0
+PySide6
